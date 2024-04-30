@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921697996355",
+    "project_id": "firejan-cefe6",
+    "storage_bucket": "firejan-cefe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921697996355:android:fbdd6300dfebc528c64ef6",
+        "android_client_info": {
+          "package_name": "com.example.firaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrohrsOQX0ogDcsJVNHBpGglkhz0jIQxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
